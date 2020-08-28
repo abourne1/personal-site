@@ -1,14 +1,16 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Baruch College',
+    degree: 'M.P.A. from Marxe School of Public and International Affairs',
+    link: 'https://marxe.baruch.cuny.edu/',
+    year: 'Expected December 2021',
+    gpa: '4.0'
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Chicago',
+    degree: 'B.S. Computer Science',
+    link: 'https://www.uchicago.edu/',
+    year: '2016',
+    gpa: '3.47'
   },
 ];
 
