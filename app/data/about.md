@@ -2,29 +2,27 @@
 <br>
 
 #### What I'm looking for
-After 6 years of writing code for government, non-profits, B-corps and definitely-not-B-corps, I'm looking for a change. I want to help government use technology better.
-This could take the form of:
+I loved working for the public sector. Contributing to the common good inspired me to work harder and think more creatively than I ever did in the private sector. However, after 6 years of writing code for government, non-profits, B-corps and definitely-not-B-corps, I'm looking for a change. I want to have a say in how our government uses technology, not just create it. Specifically, I think I could maximize my impact in the public sector by:
 <br><br>
-- making sure government interests are properly represented when interacting with software contractors
-- modernizing government tech stacks, saving engineering hours and money
-- using technology to research, and then advocate for, public policy changes
+- representing government when it deals with software contractors
+- decreasing budget expenses by migrating to the cloud and open source technologies
 - advising on emerging technology governance (AI, IoT, blockchain, etc.)
-- many other directions
-
-I'm also looking for opportunities in government outside of technology. I want to make government services fast, easy and accessible. Technology can improve service delivery, but it is one solution among many. I welcome any opportunity to improve American government.
-
 <br>
+
 
 #### Policy issues I want to work on
 
-I'm particularly motivated by the following issues. If available, I've linked my written work on the issue:
-<br><br>
+Technology can make the government more efficient, but what use is efficiency if the government doesn't work for the people? For too long, our nation's policies have work for some, but not for all. I welcome any opportunity to help craft and fight for progressive policy in the following areas (writing samples provided for select topics):
+
+<br>
 
 - [Campaign finance reform](/documents/AmendmentXXVIII_CampaignFinance.docx)
-- [Disenfranchisment](/documents/ThePeoplesCheck_VotingRightsAndExecutiveAbuse.docx) (see pages 5-13)
-- [Asylum and deportation](/documents/AsylumImmigration_PolicyPerspective.docx)
+- Housing policy
+- [Immigration](/documents/AsylumImmigration_PolicyPerspective.docx)
+- Overpolicing and criminal justice
 - [Partisan gerrymandering](/documents/AmendmentXXIX_PartisanGerrymandering.docx)
 - Universal healthcare
+- [Voter disenfranchisment](/documents/ThePeoplesCheck_VotingRightsAndExecutiveAbuse.docx) (see pages 5-13)
 - Wealth inequality
 
 <br>

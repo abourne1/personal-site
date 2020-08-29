@@ -16,6 +16,7 @@ const Index = () => (
         <Link to="/resume">resume</Link> {' '}
         or <Link to="/contact">contact</Link> me, especially if you&apos;re looking to hire for roles in government, civic tech or progressive politics!
       </p>
+      <p>If I don't respond immediately, I'm probably playing studying, jogging in Prospect Park, or listening to a history podcast. Current favorite is season three of the amazing <a href="https://thehistoryofrome.typepad.com/revolutions_podcast/">Revolutions podcast</a>.</p>
       { /*<p>I&apos;m always looking for new opportunities at the intersection of government and technology</p> */ }
       {/*<p>Especially if you&apos;re looking to hire for roles in government, civic tech or progressive politics!</p> */}
     </article>
