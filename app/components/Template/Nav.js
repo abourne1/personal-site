@@ -39,6 +39,9 @@ const Nav = () => (
           </li>
         ))}
       </ul>
+      <p className="copyright">
+        website template courtesy of <a href="https://github.com/mldangelo/personal-site">Michael D&apos;Angelo</a>
+      </p>
     </section>
   </section>
 );
