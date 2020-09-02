@@ -44,12 +44,6 @@ const courses = [
     univerity: 'University of Chicago',
   },
   {
-    title: 'Computational Linguistics',
-    number: 'CMSC 25020',
-    link: 'https://digitalhumanities.uchicago.edu/courses/complinguistics',
-    univerity: 'Baruch College',
-  },
-  {
     title: 'Economic Analysis and Public Policy',
     number: 'PAF 9130',
     link: 'https://marxe.baruch.cuny.edu/academics/master-of-public-administration/mpa-curriculum/',

@@ -12,17 +12,17 @@ I loved working for the public sector. Contributing to the common good inspired 
 
 #### Policy issues I want to work on
 
-Technology can make the government more efficient, but what use is efficiency if the government doesn't work for the people? For too long, our nation's policies have work for some, but not for all. I welcome any opportunity to help craft and fight for progressive policy in the following areas (writing samples provided for select topics):
+Technology can make the government more efficient, but what use is efficiency if the government doesn't work for the people? For too long, our nation's policies have work for some, but not for all. I welcome any opportunity to advance progressive policies, especially in the following areas (writing samples provided for select topics):
 
 <br>
 
-- [Campaign finance reform](/documents/AmendmentXXVIII_CampaignFinance.docx)
+- [Campaign finance reform](https://andrewgbourne.com/AmendmentXXVIII_CampaignFinance.docx)
 - Housing policy
-- [Immigration](/documents/AsylumImmigration_PolicyPerspective.docx)
+- [Immigration](https://andrewgbourne.com/AsylumImmigration_PolicyPerspective.docx)
 - Overpolicing and criminal justice
-- [Partisan gerrymandering](/documents/AmendmentXXIX_PartisanGerrymandering.docx)
+- [Partisan gerrymandering](https://andrewgbourne.com/AmendmentXXIX_PartisanGerrymandering.docx)
 - Universal healthcare
-- [Voter disenfranchisment](/documents/ThePeoplesCheck_VotingRightsAndExecutiveAbuse.docx) (see pages 5-13)
+- [Voter disenfranchisment](https://andrewgbourne.com/ThePeoplesCheck_VotingRightsAndExecutiveAbuse.docx) (see pages 5-13)
 - Wealth inequality
 
 <br>
